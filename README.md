@@ -1,12 +1,12 @@
 # Christoph's GitHub Repository
 
-- 👋 Hi, I’m @CS-C7H
-- 👀 I’m interested in IT administration, cloud computing, and cybersecurity.
-- 🌱 I’m currently learning advanced cybersecurity techniques and tools.
-- 💞️ I’m looking to collaborate on cloud infrastructure projects and security solutions.
-- 📫 How to reach me: [cbe@cyber-shield.org)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started my IT journey working with config.sys in MS-DOS and now enjoy writing .json and .bicep files for Azure.
+- Hi, I’m @CS-C7H
+- I’m interested in IT administration, cloud computing, and cybersecurity.
+- I’m currently learning advanced cybersecurity techniques and tools.
+- I’m looking to collaborate on cloud infrastructure projects and security solutions.
+- How to reach me: [cbe@cyber-shield.org)
+- Pronouns: He/Him
+- Fun fact: I started my IT journey working with config.sys in MS-DOS and now enjoy writing .json and .bicep files for Azure.
 
 ## Über mich
 
